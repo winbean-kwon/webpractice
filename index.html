@@ -2,6 +2,15 @@
 <html>
 <head>
   <title>WEB1 - Welcome</title>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-995HK9N3B0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-995HK9N3B0');
+</script>
 </head>
 <body>
   <h1><a href="index.html">WEB</a></h1>
